@@ -1,6 +1,8 @@
 # Análisis de Sentimientos en Redes Sociales con Modelo Híbrido BERT
 Este repositorio contiene la implementación de un modelo híbrido para el análisis de sentimientos en tweets en español. El modelo combina las características textuales obtenidas mediante BERT con metadatos de las publicaciones, mejorando así la capacidad de capturar tanto información semántica como contextual.
 
+![image](/hybrid.png)
+
 ## Estructura del Conjunto de Datos
 El conjunto de datos es de uso privativo, no disponible por el momento. Este consta de 6078 registros de tweets en español. Cada registro tiene los siguientes atributos:
 
